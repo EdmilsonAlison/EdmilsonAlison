@@ -17,7 +17,7 @@
    <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
    <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
    <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
- <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+ <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
   
   ##

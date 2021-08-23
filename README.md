@@ -6,14 +6,18 @@
 - 🌱 Estudo Java
 - 📫 Contate-me no email: eddiasdev@gmail.com
 
- <div>
+<div>
   <a href="https://github.com/EdmilsonAlison">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmilsonAlison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonAlison&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  
+<div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-Js" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+   <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+   <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Rafa-Js" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
   
   ##

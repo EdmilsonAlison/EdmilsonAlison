@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com back-and 
-- 🌱 Estudo Java
+- 🌱 Estudo programação desde 2020
 - 📫 Contate-me no email: eddiasdev@gmail.com
 
 <div>
